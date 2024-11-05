@@ -12,10 +12,18 @@ profile:
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+talks: true
 ---
 
 I am a Ph.D. student at Peking University majoring in Computer Science, advised by Prof. Xinggong Zhang. My current research interest is applying generative vision and graphics to video streaming to optimize system performance. 
 My work involves algorithm design and implementation optimization, spanning computer networks, vision, graphics, and machine learning. 
+
+**My current research interest:**
+
+- <b>Low bandwidth</b>: Employing generative large models (such as Sora, Stable Diffusion) 
+to inverse-generate low bitrate representations for videos.
+- <b>Low latency</b>: Using predicted frames to instantly respond to user actions, achieving a remote interaction system with low motion-to-photon latency.
+- <b>High immersion</b>: Building a high-freedom, high-fidelity video streaming system based on NeRF or 3DGS, optimizing perceptual quality, efficiency and bitrate.
 
 
 Contact me at: <a href='#'>jiangkai.wu@stu.pku.edu.cn</a>
