@@ -27,8 +27,6 @@ to inverse-generate low bitrate representations for videos.
 - <b>Low latency</b>: Using predicted frames to instantly respond to user actions, achieving a remote interaction system with low motion-to-photon latency.
 - <b>High immersion</b>: Building a high-freedom, high-fidelity video streaming system based on NeRF or 3DGS, optimizing perceptual quality, efficiency and bitrate.
 
-**This year, I'm actively exploring career opportunities in both industry and academia. Please don't hesitate to contact me if you have any leads.**
-
 Contact me at: <a href='#'>jiangkai.wu@stu.pku.edu.cn</a>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
